@@ -15,6 +15,7 @@ I hold a Bachelor's degree in Surveying and a Master's in GIS.
 
 ## 📂 Featured Projects
 
+- **[snake-game-sdl2](https://github.com/amir183258/snake-game-sdl2)** – Classic Snake game in C++ using SDL2, featuring menu navigation, sound effects, score & time display, pause functionality, and CMake-based build system.  
 - **[tic-tac-toe-sdl2](https://github.com/amir183258/tic-tac-toe-sdl2)** – Classic Tic-Tac-Toe game in C++ with SDL2.  
 - **[qt5-gui-exercises](https://github.com/amir183258/qt5-gui-exercises)** – GUI projects using Qt5, covering widgets, signals, and layouts.  
 - **[clrs-implementations-c](https://github.com/amir183258/clrs-implementations-c)** – C implementations of core algorithms from CLRS.  
