@@ -8,7 +8,7 @@ I hold a Bachelor's degree in Surveying and a Master's in GIS.
 
 ## 🛠 Skills & Technologies
 - **Languages:** C, C++, Python, JavaScript, PHP  
-- **Frameworks / Libraries:** SDL2, Qt5, Django, OpenLayers  
+- **Frameworks / Libraries:** SDL3, Qt6, Django, OpenLayers  
 - **Tools:** CMake, Git, Linux
 
 ---
