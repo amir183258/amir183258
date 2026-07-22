@@ -15,6 +15,7 @@ I hold a Bachelor's degree in Surveying and a Master's in GIS.
 
 ## 📂 Featured Projects
 
+- **[cpp-tcp-chat](https://github.com/amir183258/cpp-tcp-chat)** - TCP chat library and CLI frontend in C++ for Linux, featuring a line-based protocol, poll-driven single-threaded event handling, compacting buffers, signalfd-based shutdown, and extensive tests.
 - **[detectra](https://github.com/amir183258/detectra)** – C++/QML desktop app for object detection: load images, run inference, and visualize bounding boxes with smooth zoom and pan navigation.
 - **[sdl-on-android](https://github.com/amir183258/sdl-on-android)** – Manual SDL3 build on Android: compile C/C++ code, Java, and resources step by step; run on emulator or real device.
 - **[snake-game-sdl2](https://github.com/amir183258/snake-game-sdl2)** – Classic Snake game in C++ using SDL2, featuring menu navigation, sound effects, score & time display, pause functionality, and CMake-based build system.  
